@@ -49,22 +49,20 @@ I'm exploring how retrieval strategies can be made more adaptive and context-awa
 
 ## 🌌 What I'm exploring
 
-```text
-LLM Systems
-├── Retrieval-Augmented Generation
-├── Hallucination Reduction
-├── Context Engineering
-├── LLM Evaluation
-└── AI Reliability
+<p align="center">
+  <a href="./assets/exploring-roadmap.png">
+    <img 
+      src="./assets/exploring-roadmap.png" 
+      alt="Mridul's technology exploration roadmap"
+      width="100%"
+    />
+  </a>
+</p>
 
-Intelligent Systems
-├── AI Agents
-├── Agentic Workflows
-├── Knowledge Systems
-└── Human–AI Interaction
-
-Data
-├── Data Analysis
-├── Machine Learning
+<p align="center">
+  <i>
+    Explore → Build → Evaluate → Apply
+  </i>
+</p>
 ├── Experimentation
 └── Decision Systems
